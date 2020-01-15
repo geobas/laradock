@@ -115,6 +115,9 @@ alias gbr="git branch"
 alias gc="git commit"
 alias gck="git checkout"
 
+#my aliases
+alias phpcs="vendor/bin/php-cs-fixer fix"
+
 # Create a new directory and enter it
 function mkd() {
     mkdir -p "$@" && cd "$@"
