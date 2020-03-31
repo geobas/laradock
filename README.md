@@ -26,13 +26,17 @@
 <h4 align="center" style="color:#7d58c2">Use Docker First - Then Learn About It Later</h4>
 
 <p align="center">
-	<a href="http://laradock.io">
-	   <img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/documentation-button.png" width="300px" alt="Laradock Documentation"/>
-	</a>
+    <a href="http://laradock.io">
+       <img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/documentation-button.png" width="300px" alt="Laradock Documentation"/>
+    </a>
 </p>
 
+```  
+1. git clone https://github.com/geobas/laradock.git
+2. Add 127.0.0.1 api.ginbits.test to /etc/hosts
+3. cd laradock && ./runme.sh
+```
 ---
-
 ## Awesome People
 Laradock exists thanks to all the people who contribute.
 
