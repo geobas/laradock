@@ -11,4 +11,4 @@
 
 cp env-example .env && sed -i 's/UTC/Europe\/Athens/g' .env
 
-docker-compose up -d nginx mysql workspace phpmyadmin redis
+docker-compose up -d nginx mysql workspace redis phpmyadmin redis-webui
