@@ -34,7 +34,8 @@
 ```  
 1. git clone https://github.com/geobas/laradock.git
 2. Add 127.0.0.1 api.ginbits.test to /etc/hosts
-3. cd laradock && ./runme.sh
+3. Add 127.0.0.1 content.ginbits.test to /etc/hosts
+4. cd laradock && ./runme.sh
 ```
 ---
 ## Awesome People
