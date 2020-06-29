@@ -1,3 +1,4 @@
 *.conf
 !default.conf
+!core.ginbits.conf
 !content.ginbits.conf
